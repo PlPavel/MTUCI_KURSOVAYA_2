@@ -1,0 +1,12 @@
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\bin\Debug\DLL.dll
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\bin\Debug\DLL.pdb
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\obj\Debug\DLL.dll
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\obj\Debug\DLL.pdb
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\bin\Debug\Users1.mdb
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\bin\Debug\DLL.dll.config
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\bin\Debug\itextsharp.dll
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\obj\Debug\Interop.Office.dll
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\obj\Debug\DLL.csproj.ResolveComReference.cache
+C:\Users\Павел\source\repos\kursovayaRabota\DLL\obj\Debug\DLL.csproj.CopyComplete
